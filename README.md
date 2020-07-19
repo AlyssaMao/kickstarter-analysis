@@ -8,8 +8,9 @@ The purpose of this analysis is to help Louise gain an understanding of how diff
 
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png) 
->[Contributing Spreadsheet for this Analysis](
->I performed an analysis of theater outcomes based on their month of launch as depicted in the image above and noted that, consistent with the rest of the data, success rate appears to peak between the months of May and June and steadily declines thereafter, with the lowest performing month in December. There does not appear to be a strong correlation between failed/canceled campaigns and the time of year these were launched. 
+>[Contributing Spreadsheet for this Analysis](Kickstarter_Challenge.xlsx.xlsx)
+
+I performed an analysis of theater outcomes based on their month of launch as depicted in the image above and noted that, consistent with the rest of the data, success rate appears to peak between the months of May and June and steadily declines thereafter, with the lowest performing month in December. There does not appear to be a strong correlation between failed/canceled campaigns and the time of year these were launched. 
 
 ### Analysis of Outcomes Based on Goals
 
