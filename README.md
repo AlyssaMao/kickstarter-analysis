@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-
+The purpose of this analysis is to help Louise gain an understanding of how different campaigns fared in relation to their launch dates and funding goals
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
